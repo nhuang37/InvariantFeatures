@@ -1,5 +1,7 @@
-# ScalarModel
-Implementation of ScalarModel based on the field generators of invariant polynomials for O(d) x S_n
+# InvariantFeatures
+Implementation of Invariant Features based on the field generators of invariant polynomials for O(d) x S_n, specifically
+- Conjugation-Invariant DeepSet (CI-DS)
+- $O(d)$-Invariant DeepSet (OI-DS)
 
 ## Dependencies
 - Python 3.7+
